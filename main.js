@@ -1,0 +1,1 @@
+console.log("Website hội thánh đã sẵn sàng.");
